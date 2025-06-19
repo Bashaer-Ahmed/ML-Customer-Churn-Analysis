@@ -89,6 +89,5 @@ This ML project addresses all BUS8405 assignment requirements:
 - Strategic retention recommendations
 
 ## Author
-
-BUS8405 Machine Learning Assignment
-Student Implementation
+Bashaer Ahmed
+BUS8405 Machine Learning Assignment Implementation
